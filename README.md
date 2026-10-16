@@ -1,6 +1,6 @@
-# Hi there, I'm Oliver Cheatle 👋 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+#Hi, I'm Oliver Cheatle 👋 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 
-I am a Quantitative Analyst / Data Scientist with a background in Mathematics, Statistics, and Computational Finance.
+I am a graduate with a background in Mathematics, Statistics, and Computational Finance.
 
 ---
 
