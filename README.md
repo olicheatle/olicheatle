@@ -1,4 +1,4 @@
-#Hi, I'm Oliver Cheatle 👋 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+# Hi, I'm Oliver Cheatle 👋 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 
 I am a graduate with a background in Mathematics, Statistics, and Computational Finance.
 
