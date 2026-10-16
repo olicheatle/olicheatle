@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Oliver Cheatle 👋 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 
+I am a Quantitative Analyst / Data Scientist with a background in Mathematics, Statistics, and Computational Finance.
+
+---
+
+### 🎓 Education
+
+* **MSc in Statistics and Computational Finance** — *University of York* (2025–2026)
+* **BSc in Mathematics** — *Durham University* (2022–2025)
+
+---
+
+### 🛠️ Skills & Tools
+
+**Languages:**  
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) *(Currently learning)*
+
+**Focus Areas:**  
+`Quantitative Finance` • `Time Series Analysis` • `Statistical Modeling` • `Computational Statistics`
+
+---
+
+### 🔭 What I'm Working On
+
+* 📈 **Stock Trade Analysis Project:** Developing a computational pipeline/model for financial market analysis.
+* ⚡ **C++ Proficiency:** Expanding my systems programming skills for high-performance quantitative tasks.
+* 💼 **Opportunities:** Actively applying for internships, graduate schemes, and entry-level roles in quant finance, data science, and analytics.
 <!--
-**olicheatle/olicheatle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+---
 
-Hi. My name is Oliver Cheatle. 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+### 📫 Connect with Me
 
-I have a Bachelor's in Mathematics from Durham (2022-2025) and a Master's in Statistics and Computational Finance from York (2025/2026).
-I'm great at R 📊 pretty good at Python 🐍 and learning C++ 😭
-
-I'm currently working on: Building *this*, my Github profile. 😐
-
-2026/2027 is a gap year for me. I'm applying for internships, grad schemes, and anything to make me more employable in this hellscape of a world.
-
-I'll probs update this once I work out how this website works and what the norms are.
+* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
